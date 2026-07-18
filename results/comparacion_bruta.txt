@@ -1,0 +1,16 @@
+=== data/I1_3x3x2_seed42.csv ===
+algoritmo=baseline n=18 Vtotal=60.948 bloquesExtraidos=10 conosExtraidos=1 bloquesInextraibles=8 conosCero=0 tiempoMs=0.004
+algoritmo=incremental n=18 Vtotal=60.948 bloquesExtraidos=10 conosExtraidos=1 bloquesInextraibles=8 conosCero=0 tiempoMs=0.015
+
+=== data/I2_5x5x5_seed123.csv ===
+algoritmo=baseline n=125 Vtotal=133.346 bloquesExtraidos=35 conosExtraidos=1 bloquesInextraibles=64 conosCero=0 tiempoMs=0.197
+algoritmo=incremental n=125 Vtotal=133.346 bloquesExtraidos=35 conosExtraidos=1 bloquesInextraibles=64 conosCero=0 tiempoMs=0.144
+
+=== data/I3_10x10x10_seed2026.csv ===
+algoritmo=baseline n=1000 Vtotal=1276.125 bloquesExtraidos=220 conosExtraidos=4 bloquesInextraibles=324 conosCero=0 tiempoMs=36.814
+algoritmo=incremental n=1000 Vtotal=1325.298 bloquesExtraidos=212 conosExtraidos=4 bloquesInextraibles=324 conosCero=0 tiempoMs=13.474
+
+=== data/I4_15x15x15_seed2026.csv ===
+algoritmo=baseline n=3375 Vtotal=3661.345 bloquesExtraidos=680 conosExtraidos=1 bloquesInextraibles=784 conosCero=0 tiempoMs=259.303
+algoritmo=incremental n=3375 Vtotal=3661.345 bloquesExtraidos=680 conosExtraidos=1 bloquesInextraibles=784 conosCero=0 tiempoMs=188.242
+
